@@ -1,4 +1,4 @@
-#Calculo simples
+#Cálculo simples
 entradas = input().split(" ")
 cod1 = int(entradas[0])
 qtd1 = int(entradas[1])
