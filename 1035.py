@@ -1,5 +1,4 @@
 #Teste de seleção 1
-
 numeros = input().split(" ")
 A = int(numeros[0])
 B = int(numeros[1])
